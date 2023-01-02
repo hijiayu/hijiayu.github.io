@@ -9187,14 +9187,14 @@ textarea.form-control {
   padding: 64px 16px;
   transition: all 200ms ease;
 }
-  #background-section{
-    max-width: 1140px;
-    padding-right: 15px;
-    padding-left: 15px;
-    padding: 40px;
-    border-radius: 8px;
-    background-color: #111;
-    margin: -160px auto 0;
+#background-section{
+  max-width: 1140px;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding: 40px;
+  border-radius: 8px;
+  background-color: #111;
+  margin: -160px auto 0;
   }
 
 .project-title{
